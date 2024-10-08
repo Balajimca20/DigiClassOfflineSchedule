@@ -6,3 +6,7 @@ This is a robust offline scheduling system optimized for mobile use, ensuring th
 - This repository contains automated test cases for testing the offline schedule managment functionality of a DcStaff app using Appium with Java and JUnit.
 - The tests cover multiple login scenarios, including valid, invalid, and edge cases. 
 - IntelliJ IDEA is used as the development environment.
+
+
+https://github.com/user-attachments/assets/2060a9a7-7003-4677-b1f5-2dacb06279ff
+
